@@ -33,7 +33,11 @@ constexpr uint8_t General_Purpose_Controller_1      = 0x10;
 constexpr uint8_t General_Purpose_Controller_2      = 0x11;
 constexpr uint8_t General_Purpose_Controller_3      = 0x12;
 constexpr uint8_t General_Purpose_Controller_4      = 0x13;
-// 14-1F	Undefined
+constexpr uint8_t Controller_20                     = 0x14;
+constexpr uint8_t Controller_21                     = 0x15;
+constexpr uint8_t Controller_22                     = 0x16;
+constexpr uint8_t Controller_23                     = 0x17;
+// 18-1F	Undefined
 
 // LSB
 
